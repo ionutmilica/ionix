@@ -5,5 +5,6 @@ return [
         'Ionix\Routing\RoutingServiceProvider',
         'Ionix\View\ViewServiceProvider',
         'Ionix\Validation\ValidationServiceProvider',
+        'Ionix\Types\TypeServiceProvider'
     ]
 ];
